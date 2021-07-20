@@ -1,0 +1,10 @@
+release/main.o
+release/widget.o
+release/myqthread.o
+release/analydata.o
+release/myfft.o
+release/bispecd.o
+release/mycorr.o
+release/despread.o
+release/moc_widget.o
+release/moc_myqthread.o

@@ -1,0 +1,10 @@
+debug/main.o
+debug/widget.o
+debug/myqthread.o
+debug/analydata.o
+debug/myfft.o
+debug/bispecd.o
+debug/mycorr.o
+debug/despread.o
+debug/moc_widget.o
+debug/moc_myqthread.o
